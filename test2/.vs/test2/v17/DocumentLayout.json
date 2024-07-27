@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CODE\\C_CODE1\\test2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C54F4245-5078-44E1-98E6-7DF8D9CA99BB}|test2\\test2.vcxproj|C:\\CODE\\C_CODE1\\test2\\test2\\test2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C54F4245-5078-44E1-98E6-7DF8D9CA99BB}|test2\\test2.vcxproj|solutionrelative:test2\\test2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54F4245-5078-44E1-98E6-7DF8D9CA99BB}|test2\\test2.vcxproj|C:\\CODE\\C_CODE1\\test2\\test2\\add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C54F4245-5078-44E1-98E6-7DF8D9CA99BB}|test2\\test2.vcxproj|solutionrelative:test2\\add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test2.c",
+              "DocumentMoniker": "C:\\CODE\\C_CODE1\\test2\\test2\\test2.c",
+              "RelativeDocumentMoniker": "test2\\test2.c",
+              "ToolTip": "C:\\CODE\\C_CODE1\\test2\\test2\\test2.c",
+              "RelativeToolTip": "test2\\test2.c",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwEQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-26T21:55:39.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "add.c",
+              "DocumentMoniker": "C:\\CODE\\C_CODE1\\test2\\test2\\add.c",
+              "RelativeDocumentMoniker": "test2\\add.c",
+              "ToolTip": "C:\\CODE\\C_CODE1\\test2\\test2\\add.c",
+              "RelativeToolTip": "test2\\add.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-26T20:59:56.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
