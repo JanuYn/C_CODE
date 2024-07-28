@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "test2\\test2.c",
               "ToolTip": "C:\\CODE\\C_CODE1\\test2\\test2\\test2.c",
               "RelativeToolTip": "test2\\test2.c",
-              "ViewState": "AQIAADgAAAAAAAAAAAAgwEQAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-07-26T21:55:39.606Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "test2\\add.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-07-26T20:59:56.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T20:59:56.451Z"
             },
             {
               "$type": "Bookmark",
